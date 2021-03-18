@@ -1,0 +1,19 @@
+{
+  "name": "semana-agiizei-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open:mobile": "npx cypress open --config viewportWidth=360,viewportHeight=640",
+    "cypress:run:mobile": "npx cypress run --config viewportWidth=360,viewportHeight=640",
+    "cypress:open": "npx cypress open",
+    "cypress:run": "npx cypress open",
+    "cypress:run:dash": "npx cypress run --record --key 8fc6d83f-d5a3-4448-9a19-a42d26c62da3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.7.0"
+  }
+}
