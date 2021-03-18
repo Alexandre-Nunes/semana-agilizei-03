@@ -8,7 +8,7 @@
     "cypress:run:mobile": "npx cypress run --config viewportWidth=360,viewportHeight=640",
     "cypress:open": "npx cypress open",
     "cypress:run": "npx cypress open",
-    "cypress:run:dash": "npx cypress run --record --key 8fc6d83f-d5a3-4448-9a19-a42d26c62da3"
+    "cypress:run:dash": "npx cypress run --record --y683f-d5a3-44c2da3"
   },
   "keywords": [],
   "author": "",
